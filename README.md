@@ -4,7 +4,7 @@
 This repository demonstrates a data analysis approach for a hypothetical community health initiative. It uses synthetic data to showcase how health metrics could be analyzed to inform city health programs. This project is for educational purposes only and does not represent real-world data or actual health initiatives.
 
 ## Dataset
-The synthetic dataset includes various health metrics and simulated heart disease diagnosis status for 30 fictional residents.
+Our analysis is based on a [synthetic dataset](https://www.kaggle.com/datasets/johnkiriba/health-and-heart-disease-risk-factors), including various health metrics and simulated heart disease diagnosis status for 30 fictional residents.
 
 ## Analysis Performed
 1. Histogram of Age
